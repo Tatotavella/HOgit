@@ -120,3 +120,9 @@ y el push
 ```
 git push
 ```
+# Branches
+Creamos un branch acerca de las charlas, y decimos que nos parecen buenísimas
+
+# MERGE
+
+Realizo un merge entre charlas y ejercicios!
